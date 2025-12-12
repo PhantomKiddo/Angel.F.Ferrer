@@ -1,0 +1,238 @@
+{
+    "Background":
+    {
+        "colors":
+        [
+            "red",
+            "blue",
+            "green",
+            "yellow",
+            "purple",
+            "orange",
+            "pink"
+        ],
+
+        "Images":
+        [
+            "Image/Background_Images/Captain_Quarters.png",
+            "Image/Background_Images/Frutiger_Background.gif",
+            "Image/Background_Images/Silk_Aero.gif"
+        ]
+    },
+
+    "Reels":
+    {
+        "FinalReels":
+        [
+            {
+                "Name":"Reel",
+                "Video":"Video/Reel.txt"
+            }
+        ],
+
+        "Animation":
+        [
+            {
+                "Name":"",
+                "Video":"Video/Char_walk_TEMPLATE_.mp4"
+            },
+
+            {
+                "Name":"",
+                "Video":"Video/Handy_Animation.mp4"
+            },
+
+            {
+                "Name":"",
+                "Video":"Video/Sack_Jump.mp4"
+            },
+
+            {
+                "Name":"",
+                "Video":"Video/How_to_get_information_in_Dnd.mp4"
+            }
+        ],
+
+        "Spoofs":
+        [
+            {
+                "Name":"",
+                "Video":"Video/3_Shot_Scene.txt"
+            },
+
+            {
+                "Name":"",
+                "Video":"Video/5_Shot_Scene.txt"
+            },
+
+            {
+                "Name":"",
+                "Video":"Video/Edward.txt"
+            },
+
+            {
+                "Name":"",
+                "Video":"Video/Felix.txt"
+            },
+
+            {
+                "Name":"",
+                "Video":"Video/Nike_Commercial.txt"
+            }
+            
+        ]
+    },
+
+    "Gallery":
+    {
+        "Class_Projects":
+        [
+            {
+                "Name": "(W8) Assignment 1",
+                "Image": "Image/Class_Project/(W_8)_Assignment_1.png"
+            },
+
+            {
+                "Name": "(W8) Assignment 2",
+                "Image": "Image/Class_Project/(W_8)_Assignment_2.png"
+            },
+
+            {
+                "Name": "(W8) Assignment 3",
+                "Image": "Image/Class_Project/(W_8)_Assignment_3.png"
+            },
+
+            {
+                "Name": "(W9) Assignment",
+                "Image": "Image/Class_Project/(W_9)_Assignment.png"
+            },
+            
+            {
+                "Name": "(W10) Assignment",
+                "Image": "Image/Class_Project/(W_10)_Assignment.JPG"
+            },
+
+            {
+                "Name": "Bird",
+                "Image": "Image/Class_Project/Bird.PNG"
+            },
+
+            {
+                "Name": "Feather",
+                "Image": "Image/Class_Project/Feather.PNG"
+            },
+
+            {
+                "Name": "Popicle",
+                "Image": "Image/Class_Project/Popcicles.PNG"
+            },
+
+            {
+                "Name": "Shipedwreck Jolly Roger",
+                "Image": "Image/Class_Project/ShipedWreck_Jolly_Roger_Golf.png"
+            },
+
+
+            {
+                "Name": "Captain Questery",
+                "Image": "Image/Class_Project/Captain Questery.png"
+            },
+
+            {
+                "Name": "Captain Red Beard",
+                "Image": "Image/Class_Project/Captain Red Beard.png"
+            },
+
+            {
+                "Name": "Birdy",
+                "Image": "Image/Class_Project/Birdy.png"
+            },
+
+            {
+                "Name": "Tree",
+                "Image": "Image/Class_Project/Tree.png"
+            },
+
+            {
+                "Name": "Moth",
+                "Image": "Image/Class_Project/Moth.PNG"
+            },
+
+            {
+                "Name": "Flower",
+                "Image": "Image/Class_Project/Flower.PNG"
+            },
+
+            {
+                "Name": "State of Mind",
+                "Image": "Image/Class_Project/State_of_Mind_Project.png"
+            },
+
+            {
+                "Name": "Waffles-1",
+                "Image": "Image/Class_Project/Waffles-1.jpg"
+            },
+
+            {
+                "Name": "Waffles-2",
+                "Image": "Image/Class_Project/Waffles-2.jpg"
+            }
+        ],
+
+        "Project_Math":
+        [
+            {
+                "Name": "Chugging Coffee",
+                "Image": "Image/Project_Math/Chugging_Coffee.gif"
+            },
+
+            {
+                "Name": "Nautious Esmeralda",
+                "Image": "Image/Project_Math/Esmeralda_Nautious.gif"
+            },
+
+            {
+                "Name": "Hamper Mayham",
+                "Image": "Image/Project_Math/Hamper_Mayham.gif"
+            },
+
+            {
+                "Name": "Esmeralda Kitchen",
+                "Image": "Image/Project_Math/Kitchen_Esmeralda.png"
+            },
+
+            {
+                "Name": "Room scene",
+                "Image": "Image/Project_Math/Room_Scene.png"
+            }
+        ],
+
+        "Personal_Art":
+        [
+            {
+                "Name": "Angel Ferrer",
+                "Image": "Image/Personal_Project/Angel Ferrer.png"
+            },
+
+            {
+                "Name": "Donut",
+                "Image": "Image/Personal_Project/Donut.gif"
+            },
+
+            {
+                "Name": "Lillia - League of Legends",
+                "Image": "Image/Personal_Project/Lillia_-_League_of_Legends.png"
+            },
+
+            {
+                "Name": "Esmeralda",
+                "Image": "Image/Personal_Project/Esmeralda.jpg"
+            },
+
+            {
+                "Name": "Hearts <3",
+                "Image": "Image/Personal_Project/Heart(Final).gif"
+            }
+        ]
+    }
+}
