@@ -257,6 +257,13 @@ dialog::backdrop{background-color: rgba(0, 0, 0, 0.3);}
     justify-content: center;
 }
 
+.Center_Items
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 /*-----{Project}-----*/
 
 .Iframe_Resize
