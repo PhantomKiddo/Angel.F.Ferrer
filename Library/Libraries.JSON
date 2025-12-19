@@ -205,27 +205,27 @@
 
             {
                 "Name": "Pencil",
-                "Image": "Image/Class_Project/New_Icons_Pencil_Tools % Equipments.png"
+                "Image": "Image/Class_Project/New_Icons_Pencil_Tools_%_Equipments.png"
             },
 
             {
                 "Name": "Ruler",
-                "Image": "Image/Class_Project/New_Icons_Ruler_Tools % Equipments.png"
+                "Image": "Image/Class_Project/New_Icons_Ruler_Tools_%_Equipments.png"
             },
 
             {
                 "Name": "Stapler",
-                "Image": "Image/Class_Project/New_Icons_Stapler_Tools % Equipments.png"
+                "Image": "Image/Class_Project/New_Icons_Stapler_Tools_%_Equipments.png"
             },
 
             {
                 "Name": "Calculator",
-                "Image": "Image/Class_Project/New_Icons_Calculator_Tools % Equipments.png"
+                "Image": "Image/Class_Project/New_Icons_Calculator_Tools_%_Equipments.png"
             },
 
             {
                 "Name": "Scissor",
-                "Image": "Image/Class_Project/New_Icons_Scissor_Tools % Equipments.png"
+                "Image": "Image/Class_Project/New_Icons_Scissor_Tools_%_Equipments.png"
             }
 
         ],
