@@ -78,6 +78,11 @@
             {
                 "Name":"",
                 "Video":"Video/Nike_Commercial.txt"
+            },
+
+            {
+                "Name":"",
+                "Video":"Video/The_Biggest_Bird.txt"
             }
             
         ]
@@ -176,7 +181,53 @@
             {
                 "Name": "Waffles-2",
                 "Image": "Image/Class_Project/Waffles-2.jpg"
+            },
+
+            {
+                "Name": "Combs",
+                "Image": "Image/Class_Project/Patterns_rect2-8.png"
+            },
+
+            {
+                "Name": "Hex",
+                "Image": "Image/Class_Project/Patterns_rect2-7.png"
+            },
+
+            {
+                "Name": "Bee Swarm",
+                "Image": "Image/Class_Project/Patterns_rect2-5.png"
+            },
+
+            {
+                "Name": "Waffles",
+                "Image": "Image/Class_Project/Patterns_rect2.png"
+            },
+
+            {
+                "Name": "Pencil",
+                "Image": "Image/Class_Project/New_Icons_Pencil_Tools % Equipments.png"
+            },
+
+            {
+                "Name": "Ruler",
+                "Image": "Image/Class_Project/New_Icons_Ruler_Tools % Equipments.png"
+            },
+
+            {
+                "Name": "Stapler",
+                "Image": "Image/Class_Project/New_Icons_Stapler_Tools % Equipments.png"
+            },
+
+            {
+                "Name": "Calculator",
+                "Image": "Image/Class_Project/New_Icons_Calculator_Tools % Equipments.png"
+            },
+
+            {
+                "Name": "Scissor",
+                "Image": "Image/Class_Project/New_Icons_Scissor_Tools % Equipments.png"
             }
+
         ],
 
         "Project_Math":
